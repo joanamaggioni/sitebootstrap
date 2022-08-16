@@ -1,0 +1,11 @@
+.d-block {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+  }
